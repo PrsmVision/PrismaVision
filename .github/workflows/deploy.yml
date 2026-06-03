@@ -38,6 +38,8 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npx quartz plugin install
+      - name: Clear Quartz cache
+        run: rm -rf .quartz-cache
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
