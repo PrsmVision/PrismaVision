@@ -1,6 +1,7 @@
 import * as ExternalPlugin from "./.quartz/plugins"
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
-import { Contributors, HeroImage } from "quartz5-component-port"
+import { HeroImage } from "./.quartz/plugins/hero-image/dist/index.js"
+import { Contributors } from "./.quartz/plugins/contributors/dist/index.js"
 
 ExternalPlugin.BasesPage({
   defaultViewType: "card",
