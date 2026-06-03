@@ -4,13 +4,13 @@
     "hero-image": {
       "source": "github:PrsmVision/hero-image",
       "resolved": "https://github.com/PrsmVision/hero-image.git",
-      "commit": "cedca5701d6edc1c7fa00ab085fef469ce2167fd",
+      "commit": "c0fe618fdb88b2d97de95a0a592d4587accfe18e",
       "installedAt": "2026-06-01T00:00:00.000Z"
     },
 	"contributors": {
       "source": "github:PrsmVision/contributors",
       "resolved": "https://github.com/PrsmVision/contributors.git",
-      "commit": "dd1feb1cc9abe93ea049aa8eb2c43ffca851e570",
+      "commit": "ef4ee8cb45d83dac96d1b2e8632b0b7495435040",
       "installedAt": "2026-06-01T00:00:00.000Z"
     },
 	"alias-redirects": {
