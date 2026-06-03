@@ -1,0 +1,44 @@
+formulas:
+  Sem título: file.mtime.format("DD/MM/YYYY HH:mm")
+  Sem título 2: note.description
+properties:
+  note.tags:
+    displayName: Tags
+  note.description:
+    displayName: Sinopse
+  modified:
+    value: file.mtime.format("DD/MM/YYYY")
+    displayName: Atualizado
+  file.name:
+    displayName: Nome
+  formula.Sem título:
+    displayName: Modificado
+  formula.Sem título 2:
+    displayName: Sinopse
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.hasTag("Review")
+    order:
+      - file.name
+      - tags
+      - description
+    image: note.cover
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.hasTag("Review")
+    order:
+      - file.name
+      - formula.Sem título 2
+      - tags
+      - formula.Sem título
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 161
+      formula.Sem título 2: 159

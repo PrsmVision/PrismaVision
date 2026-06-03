@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"cf3e5faba7f6f765","x":-160,"y":-80,"width":720,"height":280,"type":"group","label":"Grupo sem título"},
+		{"id":"68224510cb8a9c22","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Macacos me mordam! O canvas funciona"},
+		{"id":"b3a1c01995994444","x":240,"y":-30,"width":250,"height":60,"type":"text","text":"é verdade esse bilete"}
+	],
+	"edges":[
+		{"id":"429de7287fca5fd1","fromNode":"68224510cb8a9c22","fromSide":"right","toNode":"b3a1c01995994444","toSide":"left"}
+	]
+}
