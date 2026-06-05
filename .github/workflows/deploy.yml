@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - v5
+  schedule:
+    - cron: '0 12 * * *'  # todo dia ao meio-dia UTC
+  workflow_dispatch:       # permite rodar manualmente pelo GitHub      
 permissions:
   contents: read
   pages: write
