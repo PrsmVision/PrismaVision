@@ -271,6 +271,16 @@ plugins:
     layout:
       position: beforeBody
       priority: 25
+  - source: github:PrsmVision/steam-curator-emitter
+    enabled: true
+    options:
+      curatorId: "42970950"
+
+  - source: github:PrsmVision/steam-followers
+    enabled: true
+    layout:
+      position: left
+      priority: 15    
       
 layout:
   groups:

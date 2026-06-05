@@ -38,7 +38,7 @@ Exemplo abaixo
 
 ## Review
 
-Fallen Aces é um jogo de ação e stealth, trazendo muitos elementos do genero immersive sim e boomer shooter - um arsenal de equipamento interessante, formas criativas de navegar o ambiente, pequenos niveis abertos com muitas brechas para exploração criativa do ambiente e desenvolvimento de cenarios interessantes de interação com os inimigos. Lorem ipsun Loren ipsunLorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun.
+==Fallen Aces é um jogo de ação e stealth, trazendo muitos elementos do genero immersive sim e boomer shooter - um arsenal de equipamento interessante, formas criativas de navegar o ambiente, pequenos niveis abertos com muitas brechas para exploração criativa do ambiente e desenvolvimento de cenarios interessantes de interação com os inimigos. Lorem ipsun Loren ipsunLorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun.==
 
 Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun Lorem ipsun Loren ipsun.
 
@@ -69,8 +69,8 @@ Da pra deixar texto pequeno com "< small >"  começo e "< /small >" final das fr
 > |> Texto do spoiler.
 
 
-> [!warning] Spoilers  
-> Texto do spoiler.
+> [!warning] G-Man  
+> Eu concordo com o que foi dito
 
 > [!note]
 > Nota genérica. Uso padrão para observações.

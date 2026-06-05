@@ -1,6 +1,18 @@
 {
   "version": "1.0.0",
   "plugins": {
+	"steam-curator-emitter": {
+      "source": "github:PrsmVision/steam-curator-emitter",
+      "resolved": "https://github.com/PrsmVision/steam-curator-emitter.git",
+      "commit": "f0d456e1f67c50f5289547760ca36ce5e7a35090",
+      "installedAt": "2026-06-01T00:00:00.000Z"
+    },
+    "steam-followers": {
+      "source": "github:PrsmVision/steam-followers",
+      "resolved": "https://github.com/PrsmVision/steam-followers.git",
+      "commit": "50fe042afc5121d8c2575073fdad292030eb0ec3",
+      "installedAt": "2026-06-01T00:00:00.000Z"
+    },  
     "hero-image": {
       "source": "github:PrsmVision/hero-image",
       "resolved": "https://github.com/PrsmVision/hero-image.git",
@@ -10,7 +22,7 @@
 	"contributors": {
       "source": "github:PrsmVision/contributors",
       "resolved": "https://github.com/PrsmVision/contributors.git",
-      "commit": "b62181f20e8b621c3af25ee03c53d18e6b2483e9",
+      "commit": "e945baae021eddf1589508da094c184be19f5182",
       "installedAt": "2026-06-01T00:00:00.000Z"
     },
 	"alias-redirects": {
