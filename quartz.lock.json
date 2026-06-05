@@ -10,7 +10,7 @@
     "steam-followers": {
       "source": "github:PrsmVision/steam-followers",
       "resolved": "https://github.com/PrsmVision/steam-followers.git",
-      "commit": "50fe042afc5121d8c2575073fdad292030eb0ec3",
+      "commit": "d550b8922d7cd7b75988c45ad14b3e696744c892",
       "installedAt": "2026-06-01T00:00:00.000Z"
     },  
     "hero-image": {
